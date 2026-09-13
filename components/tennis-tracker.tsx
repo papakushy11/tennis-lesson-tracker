@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import { KidDashboard } from './kid-dashboard'
 import { VoiceInput } from './voice-input'
 import { HistoryLog } from './history-log'
-import type { Kid, Lesson } from '@/lib/types/tennis'
+import type { Kid, Lesson } from '@/lib/tennis'
 
 const STORAGE_KEY = 'tennis-tracker-data'
 

@@ -1,7 +1,7 @@
 'use client'
 
 import { AlertCircle, CheckCircle, Calendar } from 'lucide-react'
-import type { Kid } from '@/lib/types/tennis'
+import type { Kid } from '@/lib/tennis'
 
 interface HistoryLogProps {
   kids: Kid[]

@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import type { Kid } from '@/lib/types/tennis'
+import type { Kid } from '@/lib/tennis'
 
 interface LessonFormProps {
   kid: Kid

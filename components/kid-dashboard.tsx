@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { Calendar, AlertCircle, CheckCircle } from 'lucide-react'
 import { LessonForm } from './lesson-form'
-import type { Kid, Lesson } from '@/lib/types/tennis'
+import type { Kid, Lesson } from '@/lib/tennis'
 
 interface KidDashboardProps {
   kid: Kid

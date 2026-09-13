@@ -2,7 +2,7 @@
 
 import { useState, useRef, useEffect } from 'react'
 import { Mic, MicOff, Send } from 'lucide-react'
-import type { Kid } from '@/lib/types/tennis'
+import type { Kid } from '@/lib/tennis'
 
 interface VoiceInputProps {
   kids: Kid[]
