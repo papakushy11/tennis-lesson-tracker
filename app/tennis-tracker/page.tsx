@@ -1,4 +1,4 @@
-import { TennisTracker } from '@/components/tennis-tracker/tennis-tracker'
+import { TennisTracker } from '@/components/tennis-tracker'
 
 export const metadata = {
   title: 'Tennis Lesson Tracker',
